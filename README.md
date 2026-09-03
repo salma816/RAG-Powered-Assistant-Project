@@ -207,17 +207,17 @@ The frontend sends user queries to the ( /query ) endpoint and displays the gene
 
 ## API Endpoints
 
-### GET `/`
+### GET /
 
 Checks that the API is running.
 
 The endpoint returns the API name and the docs
 
-### GET `/health`
+### GET /health
 
 Returns the server health status
 
-### POST `/query`
+### POST /query
 
 Processes a user query through the RAG pipeline.
 
