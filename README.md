@@ -11,7 +11,7 @@ The system consists of three main components:
 
 1. Data preparation and RAG pipeline using Jupyter Notebook
 2. FastAPI backend for query processing and RAG execution
-3. HTML, CSS, and JavaScript frontend for user interaction
+3. frontend for user interaction
 
 ## Features
 
