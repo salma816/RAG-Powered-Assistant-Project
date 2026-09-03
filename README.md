@@ -189,17 +189,9 @@ The frontend displays the generated answer and its supporting sources.
 
 Place the source PDF in the project environment:
 
-```text
-harrypotter.pdf
-```
+( harrypotter.pdf )
 
-Run the required cells in:
-
-```text
-rag_pipeline.ipynb
-```
-
-The notebook processes the PDF, creates page-level chunks, generates embeddings, stores them in Qdrant, and evaluates retrieval performance.
+And The rag_pipeline.ipynb notebook processes the PDF, creates page-level chunks, generates embeddings, stores them in Qdrant, and evaluates retrieval performance.
 
 ### Step 2: Start the FastAPI Server
 
