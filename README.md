@@ -243,6 +243,6 @@ Each source contains:
 
 ## Evaluation
 
-The retrieval system was evaluated using manually defined ground-truth questions and calculate the Precision and Recall.
+The retrieval system was evaluated using manually defined ground truth questions and calculate the Precision and Recall.
 
 The project also includes answer-grounding evaluation using llm as a judge to check whether generated answers are supported by the retrieved context.
